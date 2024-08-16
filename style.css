@@ -1,0 +1,32 @@
+
+#game-container {
+  width: 800px;
+  height: 600px;
+  margin: 50px auto;
+  border: 1px solid black;
+}
+
+#map {
+  width: 600px;
+  height: 400px;
+  margin: 20px auto;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+#info-panel {
+  text-align: center;
+}
+
+#location-description {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
